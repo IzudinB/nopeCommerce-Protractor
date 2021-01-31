@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4940387e-9567-4114-b712-b3bf89557511" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gVtRCM4NlCpauZWtvdJ92XCUJP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Projects/nopeCommerce-Protractor" />
+    <property name="nodejs.protractor.protractor_package" value="$USER_HOME$/AppData/Roaming/npm/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="conf.js" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/conf.js" />
+      <node-interpreter value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
+      <protractor-package value="$USER_HOME$/AppData/Roaming/npm/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4940387e-9567-4114-b712-b3bf89557511" name="Default Changelist" comment="" />
+      <created>1598211576653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598211576653</updated>
+      <workItem from="1598211577744" duration="2018000" />
+      <workItem from="1598214402235" duration="2642000" />
+      <workItem from="1598455805687" duration="29000" />
+      <workItem from="1598870730920" duration="29000" />
+      <workItem from="1598870774276" duration="52000" />
+      <workItem from="1598870840720" duration="201000" />
+      <workItem from="1598871487874" duration="90000" />
+      <workItem from="1599161130934" duration="11338000" />
+      <workItem from="1599601707392" duration="1676000" />
+      <workItem from="1601370509058" duration="973000" />
+      <workItem from="1601372286812" duration="761000" />
+      <workItem from="1601373563943" duration="1198000" />
+      <workItem from="1612103257444" duration="1194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1612104550599">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1612104550599" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1612103711689">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1612103711689" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1612103711689">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1612103711689" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1612103711689">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1612103711689" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1612103711689">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1612103711689" />
+  </component>
+</project>
