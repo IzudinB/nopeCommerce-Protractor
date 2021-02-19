@@ -22,7 +22,7 @@ describe('loginPage', function() {
 
         loginLink.click();
         browser.sleep(5000)
-        email.sendKeys('ema.begulic@gmail.com');
+        email.sendKeys('test@gmail.com');
         password.sendKeys('123456Aa');
         loginButton.click();
 
@@ -61,7 +61,7 @@ describe('loginPage', function() {
 
         loginLink.click()
         browser.sleep(3000);
-        email.sendKeys('ema.begulic@gmail.com');
+        email.sendKeys('test@gmail.com');
         browser.sleep(3000)
         loginButton.click();
         browser.sleep(3000)

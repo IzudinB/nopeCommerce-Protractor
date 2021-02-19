@@ -27,9 +27,9 @@ describe('Registration Page', function() {
 
         registerLink.click();
         browser.sleep(3000)
-        firstName.sendKeys('sumejja');
-        lastName.sendKeys('sljivic');
-        email.sendKeys('kodecta@gmail.com');
+        firstName.sendKeys('John');
+        lastName.sendKeys('Doe');
+        email.sendKeys('test@gmail.com');
         password.sendKeys('Test123');
         confirmPassword.sendKeys('Test123');
         registerButton.click();
@@ -43,8 +43,8 @@ describe('Registration Page', function() {
     it('2. Verify error message when email input field is empty', function() {
 
         registerLink.click();
-        firstName.sendKeys('Asim');
-        lastName.sendKeys('Brkan');
+        firstName.sendKeys('John');
+        lastName.sendKeys('Doe');
         password.sendKeys('hoki123');
         confirmPassword.sendKeys('hoki123');
         registerButton.click();
@@ -72,7 +72,7 @@ describe('Registration Page', function() {
     it('4. Verify error message when last name input field is empty', function() {
 
         registerLink.click();
-        firstName.sendKeys('Asim');
+        firstName.sendKeys('John');
         email.sendKeys('sss@test.com');
         password.sendKeys('test123');
         confirmPassword.sendKeys('test123');
@@ -87,7 +87,7 @@ describe('Registration Page', function() {
 
         registerLink.click();
         browser.sleep(3000)
-        firstName.sendKeys('Asim');
+        firstName.sendKeys('John');
         lastName.sendKeys('sss');
         email.sendKeys('sss@test.com');
         browser.sleep(3000)
@@ -102,7 +102,7 @@ describe('Registration Page', function() {
     it('6. Verify error message when confirm password input field is empty', function() {
 
         registerLink.click();
-        firstName.sendKeys('Asim');
+        firstName.sendKeys('John');
         lastName.sendKeys('sss');
         email.sendKeys('sss@test.com');
         password.sendKeys('test123');
@@ -118,7 +118,7 @@ describe('Registration Page', function() {
 
         registerLink.click();
         browser.sleep(2000)
-        firstName.sendKeys('Asim');
+        firstName.sendKeys('John');
         lastName.sendKeys('sss');
         email.sendKeys('qwer');
         password.sendKeys('test123');
@@ -135,7 +135,7 @@ describe('Registration Page', function() {
 
         registerLink.click();
         browser.sleep(2000)
-        firstName.sendKeys('Asim');
+        firstName.sendKeys('John');
         lastName.sendKeys('sss');
         email.sendKeys('sss@test.com');
         password.sendKeys('test123');
@@ -152,7 +152,7 @@ describe('Registration Page', function() {
 
         registerLink.click();
         browser.sleep(2000)
-        firstName.sendKeys('Asim');
+        firstName.sendKeys('John');
         lastName.sendKeys('sss');
         email.sendKeys('sss@test.com');
         password.sendKeys('tes');
@@ -169,9 +169,9 @@ describe('Registration Page', function() {
 
         registerLink.click();
         browser.sleep(2000)
-        firstName.sendKeys('Asim');
+        firstName.sendKeys('John');
         lastName.sendKeys('sss');
-        email.sendKeys('kodecta@gmail.com');
+        email.sendKeys('test@gmail.com');
         password.sendKeys('123456Aa');
         confirmPassword.sendKeys('123456Aa');
         registerButton.click();
